@@ -9,10 +9,15 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 1.Import dataset and print head,info of the dataset
+
 2.check for null values
+
 3.Import kmeans and fit it to the dataset
+
 4.Plot the graph using elbow method
+
 5.Print the predicted array
+
 6.Plot the customer segments
 ## Program:
 ```
@@ -74,6 +79,7 @@ print(df)
 ```
 
 ## Output:
+<img width="762" height="874" alt="Screenshot 2026-03-13 134033" src="https://github.com/user-attachments/assets/2df879a8-2381-4568-b93b-233ebb6d1ffc" />
 
 
 ## Result:
